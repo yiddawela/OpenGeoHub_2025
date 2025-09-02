@@ -1,0 +1,8 @@
+{
+  "cv": {
+    "type": "GroupKFold",
+    "n_splits": 10
+  },
+  "oof_rmse_cm": 537.9860696900134,
+  "embeddings_used": 64
+}
