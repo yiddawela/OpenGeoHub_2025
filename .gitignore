@@ -212,3 +212,9 @@ __marimo__/
 Hyperspectral/data/
 *.ipynb_checkpoints/
 .DS_Store
+# Large/local assets
+Hyperspectral/*.pptx
+Hyperspectral/*.pdf
+Hyperspectral/data/
+*.ipynb_checkpoints/
+.DS_Store
