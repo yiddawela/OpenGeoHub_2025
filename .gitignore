@@ -218,3 +218,13 @@ Hyperspectral/*.pdf
 Hyperspectral/data/
 *.ipynb_checkpoints/
 .DS_Store
+
+# Large assets
+Hyperspectral/*.pptx
+Hyperspectral/*.pdf
+Hyperspectral/data/
+
+# Large assets
+Hyperspectral/*.pptx
+Hyperspectral/*.pdf
+Hyperspectral/data/
